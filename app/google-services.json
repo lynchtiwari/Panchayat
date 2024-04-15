@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162171372506",
+    "firebase_url": "https://panchayat-911f2-default-rtdb.firebaseio.com",
+    "project_id": "panchayat-911f2",
+    "storage_bucket": "panchayat-911f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162171372506:android:ac6b88a2419240a84136e3",
+        "android_client_info": {
+          "package_name": "com.example.panchayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162171372506-k47aus43vb12t847gc717poti0fck62j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.panchayat",
+            "certificate_hash": "0fc6ce47d7a6bbffe7ad785df7f2af2e0bf552f5"
+          }
+        },
+        {
+          "client_id": "162171372506-adc16g72o4qq6ug5lkulgkgfv68ka21s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWklYJiB5AcLv3e-_EQ8Bsnah_uJgWa4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162171372506-adc16g72o4qq6ug5lkulgkgfv68ka21s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
